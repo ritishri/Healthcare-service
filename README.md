@@ -11,7 +11,8 @@ This is a simple React application that allows users to manage a list of healthc
 - **Form Validation**: Ensures all fields are filled before adding a service.
 - **Responsive Design**: Styled using Tailwind CSS for a modern, clean interface.
 
-You can view the live version of the app here: healthcare-service-7qjjlux12-ritika-rajs-projects.vercel.app
+You can view the live version of the app here:(https://healthcare-service-7qjjlux12-ritika-rajs-projects.vercel.app)
+
 
 ### Installation
 
