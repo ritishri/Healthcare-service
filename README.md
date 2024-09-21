@@ -20,17 +20,20 @@ You can view the live version of the app here: [Your Deployed Link]
    git clone https://github.com/your-username/healthcare-service-manager.git
    cd healthcare-service-manager
 
+2.Install the dependencies:
+ npm install
+
+ ### Running the App
+
+ 1.**Start the development server:**
+    npm start
+
+2. **Open the app in the browser:**
+   http://localhost:3000
+ 
 
 
 
-   
-
-### Available Scripts
-In the project directory, you can run:
-- `npm start`: Runs the app in development mode.
-- `npm test`: Launches the test runner.
-- `npm run build`: Builds the app for production.
-- `npm run eject`: Ejects from Create React App.
 
 
 
